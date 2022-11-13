@@ -1,0 +1,21 @@
+h1 {
+    font-family: Roboto;
+}
+
+h2 {
+    font-family: Lora;
+    color: #228B22;
+    font-size: 32px;
+}
+
+.font {
+    font-size: 36px;
+    color: #000;
+}
+strong {
+    font-size: 24px;
+}
+a {
+    color: rgb(4, 0, 255);
+    font-size: 24px;
+}
