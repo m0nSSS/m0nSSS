@@ -1,0 +1,51 @@
+#header  {
+    background-color: rgb(50, 66, 109);
+    height: 120px;
+}
+.wrapper   {
+    
+}
+.nav  {
+    color: #fff;
+    font-size: 18px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    align-content:center
+ 
+   
+    
+    
+}
+.inf  {
+    width: 130px;
+    height: 90px;
+   
+   border-color: #fff;
+   border-width: 1px;
+   border-style: solid;
+   padding-left:40px ;
+  
+}
+.main  {
+    
+    border-color: #fff;
+    border-style: solid;
+    border-width: 1px;
+    padding: 14px 30px;
+  
+}
+.comp  {
+    border-color: #fff;
+    border-style: solid;
+    border-width: 1px;
+    padding: 14px 30px;
+}
+  
+.about  {
+   
+    border-color: #fff;
+    border-style: solid;
+    border-width: 1px;
+    padding: 14px 20px;
+}
